@@ -34,7 +34,7 @@
 ### Cloud & DevOps
 
 - <b>Platforms</b>: AWS, Google Cloud Platform, Azure
-- <b>Tools</b>: Docker, Kubernetes, CI/CD pipelines (GitHub Actions, Jenkins)
+- <b>Tools</b>: Docker, Kubernetes, Terraform, CI/CD pipelines (GitHub Actions, Jenkins)
 
 ---
 

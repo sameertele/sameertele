@@ -69,6 +69,5 @@
 ## 📬 Connect with Me
 
 - 📌 Portfolio: 
-- 💼 LinkedIn: [www.linkedin.com/in/sameertele](https://www.linkedin.com/in/sameertele)
 - 📧 Email: [sameertele27@gmail.com](mailto:sameertele27@gmail.com)
 - 🔥 *"Data is the new oil, and I refine it into powerful, actionable insights

@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sameer!</h1>
-<p align="center"><b>Software Engineer |Data Engineer | DevOps Enthusiast</b></p>
+<p align="center"><b>Software Engineer | DevOps Enthusiast</b></p>
 
 ---
 

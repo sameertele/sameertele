@@ -1,40 +1,57 @@
 <h1 align="center">Hi, I'm Sameer!</h1>
-<p align="center"><b>Software Engineer | DevOps Enthusiast</b></p>
+<p align="center"><b>AI Engineer | Infrastructure & Product Builder</b></p>
+<p align="center">Building the future of open-source AI orchestration and local-first LLM infrastructure.</p>
 
 ---
 
 ## 🔍 About Me
 
-- 🎓 <b>Graduate Degree in Data Science</b>
-- 📊 Focused on <b>Data Science, Machine Learning & Business Intelligence</b>
-- 🔎 Specializing in <b>AI-driven Predictive Analytics, Big Data Processing, and Advanced Data Visualization</b>
-- 📌 Continuously experimenting with new algorithms and tools to turn complex data into actionable insights
+- 🎓 **Graduate Degree in Data Science** with a focus on high-performance AI systems.
+- 🛠️ **Core Focus**: Shipping production-ready AI products, local-first LLM gateways, and decentralized AI.
+- 🦅 **Active Contributor & Builder with OpenClaw**: Dedicated to improving the OpenClaw ecosystem and building tools that make AI more accessible and private.
+- 🚀 **Infrastructure-Minded**: Bridging the gap between complex ML models and scalable, secure DevOps practices.
+
+---
+
+## 🏗️ Featured Project: OpenBrain 🧠
+
+**OpenBrain** is a local-first, OpenAI-compatible gateway designed to unify fragmented AI provider APIs into a single, secure, and manageable interface.
+
+- **Unified API Gateway**: Exposes a single `/v1` endpoint for any OpenAI-compatible provider (Groq, vLLM, Ollama, xAI).
+- **Virtual Key Management**: Create one "virtual app key" for your local applications while managing multiple provider keys behind the scenes.
+- **Dynamic Routing**: Switch the primary backend model on the fly without changing a single line of code in your apps using the `model="default"` route.
+- **Local-First & Secure**: Includes encrypted key storage, rate limiting, CSRF protection, and a local dashboard for real-time monitoring.
+- **Observability**: Built-in usage logging and Prometheus metrics for tracking performance across different backends.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming & Data Engineering
+### AI & LLM Orchestration
+- **Inference**: vLLM, Ollama, LM Studio, Groq, OpenAI API
+- **Tooling**: **OpenClaw**, LangChain, Model Gateways (OpenBrain)
+- **Frameworks**: PyTorch, TensorFlow, Scikit-learn, HuggingFace Transformers
 
-- <b>Languages</b>: Python, R, SQL, Java, C/C++
-- <b>Data Engineering</b>: ETL pipelines, Apache Airflow, Apache Spark
-- <b>Big Data</b>: Hadoop, Spark, NoSQL (MongoDB)
+### Product & Engineering
+- **Languages**: Python (FastAPI/Flask), SQL, Java, C++, R
+- **Database**: NoSQL (MongoDB), Vector DBs (Chroma, Pinecone), SQL
+- **Interfaces**: Streamlit, CLI Tools, Local Dashboards
 
-### Machine Learning & AI
+### AI Infrastructure & DevOps
+- **Platforms**: AWS, GCP, Azure
+- **Deployment**: Docker, Kubernetes (Minikube/K8s), Terraform
+- **CI/CD**: GitHub Actions, Jenkins, Automated Model Retraining
 
-- <b>Libraries/Frameworks</b>: Scikit-learn, TensorFlow, PyTorch, Keras
-- <b>Techniques</b>: Regression, Classification, Clustering, Time Series Forecasting (ARIMA, LSTMs), NLP
-- <b>Model Deployment</b>: Docker, Kubernetes, Flask/Django APIs for ML serving
+---
 
-### Data Visualization & BI
+## 🌐 Contributions & Community
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenClaw-Active_Builder-orange?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/OpenBrain-Lead_Developer-blue?style=for-the-badge&logo=openai"/>
+</p>
 
-- <b>Tools</b>: Tableau, Power BI, Matplotlib, Seaborn, D3.js
-- <b>Dashboards</b>: Interactive and real-time visualization solutions
-
-### Cloud & DevOps
-
-- <b>Platforms</b>: AWS, Google Cloud Platform, Azure
-- <b>Tools</b>: Docker, Kubernetes, Terraform, CI/CD pipelines (GitHub Actions, Jenkins)
+- **OpenClaw**: I am actively building on and improving OpenClaw to enhance its capabilities in decentralized AI execution and interoperability.
+- **Open-Source**: Focused on building "connective tissue" for AI—tools that make it easier for developers to switch models, manage costs, and keep data local.
 
 ---
 
@@ -42,32 +59,9 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <!-- Add more badges as needed -->
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-**📌 Predicting Credit Card Customer Attrition**  
-💡 Engineered a robust churn prediction model leveraging Logistic Regression, Gaussian Naïve Bayes, and ARIMA to forecast customer attrition with scalable data pipelines.
-
-**📌 Customer Segmentation using Clustering**  
-💡 Applied K-Means and Hierarchical clustering algorithms to segment customers, enabling targeted marketing strategies through detailed statistical analysis.
-
-**📌 Stock Price Prediction**  
-💡 Designed and deployed a time-series forecasting model using ARIMA and LSTMs, integrating real-time data streams and automated model retraining.
-
----
-
-## 📬 Connect with Me
-
-- 📌 Portfolio: 
-- 📧 Email: [sameertele27@gmail.com](mailto:sameertele27@gmail.com)
-- 🔥 *"Data is the new oil, and I refine it into powerful, actionable insights

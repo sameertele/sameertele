@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sameer!</h1>
-<p align="center"><b>AI Engineer | Infrastructure & Product Builder</b></p>
+<p align="center"><b>AI Engineer </b></p>
 <p align="center">Building the future of open-source AI orchestration and local-first LLM infrastructure.</p>
 
 ---
